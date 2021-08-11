@@ -1,0 +1,12 @@
+.wrapper {
+    width: 400px;
+    background-color: lightblue;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 12px 12px 2px 1px rgba(197, 197, 234, 0.2);
+}
+
+.wrapper button {
+    display: block;
+    margin: 10px auto 0;
+}
